@@ -1,4 +1,4 @@
-## Hi I'am Dongchen Wang 👋
+## Hi I'am Dongchen Wang. 👋
 - 🔭 I’m currently working on AI
 - 📄 Know about my experiences **[https://drive.google.com/drive/folders/1vvIV0ylY-zeLdwWmq20eLBe2Csr6THU8?usp=sharing](https://drive.google.com/drive/folders/1vvIV0ylY-zeLdwWmq20eLBe2Csr6THU8?usp=sharing)**
 - 👨‍💻 All of my projects are available at **[https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing](https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing)**
