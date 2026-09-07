@@ -1,5 +1,5 @@
 ## Hi I'am Dongchen Wang. 👋
-- 🎓 Undergraduate @ Central South University | Graduate @ SUIBE
+- 🎓 Undergraduate @ Central South University | Postgraduate @ SUIBE
 - 🔭 I’m currently working on AI
 - 💻 All of my projects are available at **[https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing](https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing)**
 
