@@ -2,7 +2,10 @@
 - 🎓 Undergraduate @ Central South University | Graduate @ SUIBE
 - 🔭 I’m currently working on AI
 - 💻 All of my projects are available at **[https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing](https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing)**
-  <!-- 上海图片 -->
+
+---
+
+   <!-- 上海图片 -->
 <img width="1440" height="960" alt="image" src="https://github.com/user-attachments/assets/3103f6b2-c620-44ce-aa13-6c5c7844b6b9" />
 
 
