@@ -6,8 +6,7 @@
 ---
 
    <!-- 上海图片 -->
-<img width="1440" height="960" alt="image" src="https://github.com/user-attachments/assets/3103f6b2-c620-44ce-aa13-6c5c7844b6b9" />
-
+<img width="1440" height="960" alt="image" src="https://github.com/user-attachments/assets/e8a2da1d-f804-4138-8ab8-9d58cc600fdb" />
 
 ---
 
