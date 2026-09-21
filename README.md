@@ -1,4 +1,4 @@
-## Hi I'am Dongchen Wang. 👋
+## Hi I'am Dawn Wang. 👋
 - 🎓 Undergraduate **@ Central South University** | Postgraduate  **@ SUIBE**
 - 🔭 I’m currently working on **AI**
 - 💻 All of my projects are available in **[https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing]**
