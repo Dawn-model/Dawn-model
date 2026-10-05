@@ -3,8 +3,12 @@
 - 🔭 I’m currently working on **AI**
 - 💻 Most of my projects are available in **[https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing]**
 
+<div align="center">
+   
 [![Stars](https://img.shields.io/github/stars/Dawn-model/Dawn-model?style=for-the-badge&logo=github&color=green)](https://github.com/Dawn-model/Dawn-model)
 [![Forks](https://img.shields.io/github/forks/Dawn-model/Dawn-model?style=for-the-badge&logo=github&color=blue)](https://github.com/Dawn-model/Dawn-model)
+
+</div>
 
 ---
 
