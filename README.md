@@ -1,7 +1,7 @@
 ## Hi I'm Dawn Wang. 👋
 - 🎓 Undergraduate **@ Central South University** | Postgraduate  **@ SUIBE**
 - 🔭 I’m currently working on **AI**
-- 💻 Most of my projects are available in **[https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing]**
+- 💻 Part of my projects are available in **[https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing]**
 
 <div align="center">
    
