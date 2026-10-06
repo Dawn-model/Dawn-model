@@ -1,7 +1,18 @@
-## Hi I'm Dawn Wang. 👋
-- 🎓 Undergraduate **@ Central South University** | Postgraduate  **@ SUIBE**
-- 🔭 I’m currently working on **AI**
-- 💻 Some of my projects are available at **[https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing]**
+<p align="center">
+  <font size="10" color="#D4AF37">
+    <strong> 
+      Hi, I'm Dawn Wang. 👋
+    </strong>
+  </font>
+</p>
+
+---
+
+- 🎓 Undergraduate **@Central South University** | Postgraduate  **@SUIBE**
+- 💻 I’m currently working on **AI**
+- 📁 Some of my projects are available at [Project Files](https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing)
+
+### Technology stack：
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-555555?style=flat&logo=python&logoColor=white&labelColor=3776AB">
@@ -10,9 +21,6 @@
   <img src="https://img.shields.io/badge/LLM-APPLICATIONS-555555?style=flat&labelColor=8B5CF6">
   <img src="https://img.shields.io/badge/AGENT-DEVELOPMENT-555555?style=flat&logo=langchain&logoColor=white&labelColor=10B981">
 </p>
-
----
-
    <!-- 上海图片 -->
 <p align="center">
    <img width="950" 
@@ -24,16 +32,17 @@
 
 <div align="center">
    
-[![Stars](https://img.shields.io/github/stars/Dawn-model/Dawn-model?style=for-the-badge&logo=github&color=green)](https://github.com/Dawn-model/Dawn-model)
-[![Forks](https://img.shields.io/github/forks/Dawn-model/Dawn-model?style=for-the-badge&logo=github&color=blue)](https://github.com/Dawn-model/Dawn-model)
-
+[![Stars](https://img.shields.io/github/stars/Dawn-model/Dawn-model?style=for-the-badge&logo=github&color=yellow)](https://github.com/Dawn-model/Dawn-model)
+[![Profile Views](https://komarev.com/ghpvc/?username=Dawn-model&style=for-the-badge&color=green)](https://github.com/Dawn-model)
+[![Followers](https://img.shields.io/github/followers/Dawn-model?style=for-the-badge&logo=github&color=blue)](https://github.com/Dawn-model)
+  
 </div>
-<!-- 技术栈 
+
+<!--
 <h3 align="left"> Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a></p>
-
+~~~
 -->
-
 
 
 
