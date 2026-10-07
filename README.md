@@ -1,9 +1,10 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=red&size=40&center=true&vCenter=true&width=500&lines=Hi,+I'm+Dawn+Wang." />
+</h1>
+
+
 <p align="center">
-  <font size="10" color="#D4AF37">
-    <strong> 
-      Hi, I'm Dawn Wang. 👋
-    </strong>
-  </font>
+  <img src="https://img.shields.io/badge/Dawn_Wang-⭐-D4AF37?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
