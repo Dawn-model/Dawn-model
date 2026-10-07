@@ -21,10 +21,12 @@
 
    <!-- 上海图片 -->
 <p align="center">
-   <img width="1000" 
-   alt="image" 
-   src="https://github.com/user-attachments/assets/e8a2da1d-f804-4138-8ab8-9d58cc600fdb" />
+   <img width="1000"  alt="shanghai" 
+     src="https://github.com/user-attachments/assets/dfe7721d-6098-4844-aed5-b757c1652e19" />
 </p>
+
+
+
 
 ---
 
