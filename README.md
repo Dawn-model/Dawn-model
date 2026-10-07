@@ -33,11 +33,11 @@
 ### Technology stack：
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-555555?style=flat&logo=python&logoColor=white&labelColor=3776AB">
-  <img src="https://img.shields.io/badge/DATA-SCIENCE-555555?style=flat&logo=databricks&logoColor=white&labelColor=F59E0B">
-  <img src="https://img.shields.io/badge/AI-ENGINEERING-555555?style=flat&logo=googleai&logoColor=white&labelColor=EC4899">
-  <img src="https://img.shields.io/badge/LLM-APPLICATIONS-555555?style=flat&labelColor=8B5CF6">
-  <img src="https://img.shields.io/badge/AGENT-DEVELOPMENT-555555?style=flat&logo=langchain&logoColor=white&labelColor=10B981">
+  <img src="https://img.shields.io/badge/PYTHON-Basis-555555?style=flat&logo=python&logoColor=white&labelColor=3776AB">
+  <img src="https://img.shields.io/badge/DATA-Science-555555?style=flat&logo=databricks&logoColor=white&labelColor=F59E0B">
+  <img src="https://img.shields.io/badge/AI-Engineer-555555?style=flat&logo=googleai&logoColor=white&labelColor=EC4899">
+  <img src="https://img.shields.io/badge/LLM-Application-555555?style=flat&labelColor=8B5CF6">
+  <img src="https://img.shields.io/badge/AGENT-Development-555555?style=flat&logo=langchain&logoColor=white&labelColor=10B981">
 </p>
 
 
