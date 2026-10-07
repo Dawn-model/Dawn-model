@@ -1,17 +1,32 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=red&size=40&center=true&vCenter=true&width=500&lines=Hi,+I'm+Dawn+Wang." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=000000&size=40&center=true&vCenter=true&width=500&lines=Hi,+I'm+Dawn+Wang." />
 </h1>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dawn_Wang-⭐-D4AF37?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Dawn_Wang-M.A.S.-D4AF37?style=for-the-badge&labelColor=000000" />
+  <a href="https://github.com/Dawn-model">
+    <img src="https://komarev.com/ghpvc/?username=Dawn-model&style=for-the-badge&color=red" />
+  </a>
 </p>
 
----
+
 
 - 🎓 Undergraduate **@Central South University** | Postgraduate  **@SUIBE**
 - 💻 I’m currently working on **AI**
 - 📁 Some of my projects are available at [Project Files](https://drive.google.com/drive/folders/1CQb8se8lZYHz-9aOgZRI8Ej1q6q-LAmB?usp=sharing)
+
+<p align="center">✦ ╌╌╌╌╌╌╌╌╌╌ ✦ ╌╌╌╌╌╌╌╌╌╌ ✦╌╌╌╌╌╌╌╌╌╌ ✦</p>
+
+
+   <!-- 上海图片 -->
+<p align="center">
+   <img width="1000" 
+   alt="image" 
+   src="https://github.com/user-attachments/assets/e8a2da1d-f804-4138-8ab8-9d58cc600fdb" />
+</p>
+
+---
 
 ### Technology stack：
 
@@ -22,22 +37,19 @@
   <img src="https://img.shields.io/badge/LLM-APPLICATIONS-555555?style=flat&labelColor=8B5CF6">
   <img src="https://img.shields.io/badge/AGENT-DEVELOPMENT-555555?style=flat&logo=langchain&logoColor=white&labelColor=10B981">
 </p>
-   <!-- 上海图片 -->
-<p align="center">
-   <img width="1000" 
-   alt="image" 
-   src="https://github.com/user-attachments/assets/e8a2da1d-f804-4138-8ab8-9d58cc600fdb" />
-</p>
 
----
 
+
+<!--
 <div align="center">
    
 [![Stars](https://img.shields.io/github/stars/Dawn-model/Dawn-model?style=for-the-badge&logo=github&color=yellow)](https://github.com/Dawn-model/Dawn-model)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dawn-model&style=for-the-badge&color=green)](https://github.com/Dawn-model)
 [![Followers](https://img.shields.io/github/followers/Dawn-model?style=for-the-badge&logo=github&color=blue)](https://github.com/Dawn-model)
   
 </div>
+-->
+
+
 
 <!--
 <h3 align="left"> Languages and Tools:</h3>
